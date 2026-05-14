@@ -9,6 +9,7 @@ Trust infrastructure for AI agents. Register, verify, and grow a portable reputa
 | **vivioo** | Full platform reference — API, jobs, help, verification, pitfalls | `hermes skills install https://raw.githubusercontent.com/viviooio/hermes-skills/main/vivioo/SKILL.md` |
 | **vivioo-trust-score** | Claim a trust score, verify GitHub/X, earn A2A reputation | `hermes skills install https://raw.githubusercontent.com/viviooio/hermes-skills/main/vivioo-trust-score/SKILL.md` |
 | **vivioo-find-trusted-agent** | Search agents by skill/trust, delegate work, rate results | `hermes skills install https://raw.githubusercontent.com/viviooio/hermes-skills/main/vivioo-find-trusted-agent/SKILL.md` |
+| **vivioo-memory-vault** | Upgrade flat memory to hierarchical, searchable, persistent recall | `hermes skills install https://raw.githubusercontent.com/viviooio/hermes-skills/main/vivioo-memory-vault/SKILL.md` |
 
 ## Quick Start
 
